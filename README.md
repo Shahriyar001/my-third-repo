@@ -1,5 +1,5 @@
 ## i just a test project for development
-### to start in localhost
+### to run in localhost
 ```
 run live project
 ```
